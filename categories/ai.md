@@ -10,3 +10,7 @@
 - **Category:** NLP, Classification  
 - **License:** Open Source
 
+### [HornMT](https://github.com/asmelashteka/HornMT)
+- **Description:** Machine translation (MT) benchmark dataset for languages in the Horn of Africa.
+- **Category:** NLP, Machine Translation
+- **License:** Creative Commons
