@@ -14,3 +14,8 @@
 - **Description:** Machine translation (MT) benchmark dataset for languages in the Horn of Africa.
 - **Category:** NLP, Machine Translation
 - **License:** Creative Commons
+
+### [Chichewa speech dataset](https://zenodo.org/records/6595625)
+- **Description:** A speech dataset for the language "Chichewa" spoken in Malawi, Zambia, Zimbabwe and Mozambique.
+- **Category:** NLP, Machine Translation
+- **License:** Creative Commons
